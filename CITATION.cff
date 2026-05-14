@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Quantifying creativity analysis
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Anna
+    family-names: Bakker
+    email: anb@cswalcheren.nl
+repository-code: 'https://github.com/Unitato99/Quantifying-creativity/'
+abstract: >-
+  Creativity is an important higher order cognitive skill in
+  solving physics problems. However, it is notoriously
+  difficult and time-consuming to measure. Nowadays, solving
+  complex physics problems is mostly done by multiple
+  research groups in parallel. In such contexts, it is
+  essential that the research community as a whole generates
+  creative solutions to the problem at hand, motivating the
+  need for collective creativity. We apply various methods
+  to quantify collective creativity to undergraduate
+  students’ open-ended experimental design proposals in the
+  physics subfield of soft matter.  We  compare and discuss
+  the three most promising of these methods. After
+  comparison, a probability-based metric of the proposal
+  distribution emerges as the most valid and distinctive
+  quantification of collective creativity. It is capable of
+  resolving year-to-year variations in collective creativity
+  that are not readily apparent from qualitative inspection
+  alone. This new metric can inform evidence-based decisions
+  on how lab courses may be adapted to more effectively
+  stimulate student collective creativity.
